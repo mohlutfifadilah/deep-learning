@@ -1,0 +1,14 @@
+==== PETUNJUK PENGERJAAN TUGAS ====
+
+1. Gunakan dataset dataset_training.csv untuk membuat model
+2. Dataset terdiri dari 15 kolom "x1" sampai "x15" yang merupakan variabel bebas dan 1 kolom "y" yang merupakan variabel terikat 
+3. Buatlah model sebaik mungkin
+4. Nilai akan diambil berdasarkan score performa model setelah diuji dengan data testing
+5. Dilarang untuk menyontek dan menggunakan model orang lain
+6. Simpan model yang sudah dibuat sebaik mungkin di laptop masing-masing
+7. Untuk dataset testing akan diberikan pada tanggal Kamis, 12 Oktober 2023 jam 19.30
+8. Nama file dataset testing adalah dataset_testing.csv
+8. Jawaban yang dikumpulkan merupakan hasil dari model yang menggunakan dataset testing yang disimpan dalam file berformat CSV
+9. File CSV yang diberi nama dengan format NIM_NAMA.csv
+10. Contoh isi format jawaban dapat anda lihat di contoh_jawaban.csv
+11. Batas terakhir pengumpulan jawaban pada tanggal Kamis, 12 Oktober 2023 jam 20.15
